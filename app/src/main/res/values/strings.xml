@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frase De Coach</string>
+    <string name="btnGerar" translatable="false">Coach</string>
+
+    <string-array name="frases">
+        <item>Quanto mais eu treino, mais sorte eu tenho</item>
+        <item>Controle o seu destino ou alguém controlará</item>
+        <item>Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem.</item>
+        <item>Um bom chefe faz com que homens comuns façam coisas incomuns.</item>
+    </string-array>
+
+</resources>
